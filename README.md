@@ -1,31 +1,26 @@
-# Day 1 – Environment Setup
 
-## Task
-Set up the complete development environment required for the AI/ML internship, including Python, Git, Jupyter Notebook, and VS Code. Created a GitHub repository and ran the first Python program to confirm the setup was working correctly.
+# Codomax Digital – AI/ML Internship
 
-## Steps Completed
-- Installed Python and verified the version
-- Installed Git and verified the version
-- Installed and configured VS Code
-- Installed and launched Jupyter Notebook
-- Created a GitHub repository for the internship
-- Wrote and ran a simple Python program to confirm the environment is working
+This repository contains my daily task submissions for the AI/ML Internship at Codomax Digital. Each folder represents one day of the program, covering topics from Python basics to building and evaluating a Machine Learning model.
 
-## Files in this Folder
-- `Hello_codomax.py` – Python script printing a welcome message
-- `Hello_codomax.ipynb` – Same program run in Jupyter Notebook
-- `screenshots/` – Proof of installation and program output
-  - `python_version.png` – Python version check
-  - `git_version.png` – Git version check
-  - `vscode_hello_codomax_output.png` – Output from VS Code
-  - `jupyter_hello_codomax_output.png` – Output from Jupyter Notebook
+## Progress
 
-## Output
-Hello, Codomax Internship!
-
-
-## Expected Outcome
-Development environment is fully set up and ready for the next stages of the internship.
+| Day | Topic | Status |
+|-----|-------|--------|
+| [Day 1](./Day1_EnviornmentSetup) | Environment Setup | ✅ Complete |
+| [Day 2](./Day2_PythonBasics) | Python Basics | ✅ Complete |
+| Day 3 | NumPy | 🔲 Pending |
+| Day 4 | Pandas | 🔲 Pending |
+| Day 5 | Data Cleaning | 🔲 Pending |
+| Day 6 | Data Visualization | 🔲 Pending |
+| Day 7 | ML Basics | 🔲 Pending |
+| Day 8 | Build the Model | 🔲 Pending |
+| Day 9 | Prediction | 🔲 Pending |
+| Day 10 | Model Evaluation | 🔲 Pending |
+| Day 11 | Prediction App | 🔲 Pending |
+| Day 12 | Project Improvement | 🔲 Pending |
+| Day 13 | GitHub Publishing | 🔲 Pending |
+| Day 14 | Final Submission | 🔲 Pending |
 
 ## Tools Used
-Python, Git, VS Code, Jupyter Notebook, GitHub
+Python, Git, GitHub, VS Code, Jupyter Notebook, NumPy, Pandas, Matplotlib, Scikit-learn
