@@ -8,7 +8,7 @@ This repository contains my daily task submissions for the AI/ML Internship at C
 |-----|-------------------------|----------------|
 | [Day 1](./Day1_EnviornmentSetup) | Environment Setup | ✅ Complete |
 | [Day 2](./Day2_PythonBasics) | Python Basics | ✅ Complete |
-| [Day 3](./Day3_NumPy) | NumPy Fundamentals | ✅ Complete |
+| [Day 3](./Day3_NumPyFundamentals) | NumPy Fundamentals | ✅ Complete |
 | Day 4 | Pandas | 🔲 Pending |
 | Day 5 | Data Cleaning | 🔲 Pending |
 | Day 6 | Data Visualization | 🔲 Pending |
