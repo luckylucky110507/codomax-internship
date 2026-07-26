@@ -9,7 +9,7 @@ This repository contains my daily task submissions for the AI/ML Internship at C
 | [Day 1](./Day1_EnviornmentSetup) | Environment Setup | ✅ Complete |
 | [Day 2](./Day2_PythonBasics) | Python Basics | ✅ Complete |
 | [Day 3](./Day3_Numpy) | NumPy | ✅ Complete |
-| Day 4 | Pandas |  ✅ Complete |
+| [Day 4](./Day4_Pandas) | Pandas | ✅ Complete |
 | Day 5 | Data Cleaning | 🔲 Pending |
 | Day 6 | Data Visualization | 🔲 Pending |
 | Day 7 | Machine Learning Basics | 🔲 Pending |
@@ -21,15 +21,19 @@ This repository contains my daily task submissions for the AI/ML Internship at C
 | Day 13 | GitHub Publishing | 🔲 Pending |
 | Day 14 | Final Submission | 🔲 Pending |
 
-## 📌 Day 3 Highlights
+---
 
-- ✅ Installed and imported NumPy
-- ✅ Created 1D and 2D arrays
-- ✅ Worked with `zeros()`, `ones()`, and `arange()`
-- ✅ Performed indexing and slicing
-- ✅ Applied mathematical operations on arrays
-- ✅ Used aggregate functions (`sum()`, `mean()`, `max()`, `min()`, `sqrt()`)
-- ✅ Built a mini practice task to calculate average, highest, and lowest student marks :contentReference[oaicite:0]{index=0}
+## 📌 Day 4 Highlights
+
+- ✅ Imported the Pandas library
+- ✅ Loaded the Student Scores dataset using `pd.read_csv()`
+- ✅ Explored the dataset using `head()` and `tail()`
+- ✅ Displayed all column names
+- ✅ Checked dataset shape and information using `shape` and `info()`
+- ✅ Generated summary statistics with `describe()`
+- ✅ Verified missing values using `isnull().sum()`
+- ✅ Checked for duplicate records
+- ✅ Examined data types of all columns
 
 ## 🛠️ Tools Used
 
