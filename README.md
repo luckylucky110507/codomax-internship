@@ -1,7 +1,11 @@
-# Codomax Digital – AI/ML Internship
-This repository contains my daily task submissions for the AI/ML Internship at Codomax Digital. Each folder represents one day of the program, covering topics from Python basics to building and evaluating a Machine Learning model.
+# 🎓 Codomax Digital – AI/ML Internship
 
-## 📅 Progress
+A 14-day hands-on internship program covering the complete journey of an AI/ML project — from setting up the development environment to building, training, and evaluating a Machine Learning model. This repository documents my daily progress, code, and learnings throughout the program.
+
+---
+
+## 📅 Progress Tracker
+
 | Day | Topic | Status |
 |-----|-------------------------|----------------|
 | [Day 1](./Day1_EnviornmentSetup) | Environment Setup | ✅ Complete |
@@ -21,37 +25,43 @@ This repository contains my daily task submissions for the AI/ML Internship at C
 
 ---
 
-## 📌 Day 4 Highlights
-- ✅ Imported the Pandas library
-- ✅ Loaded the Student Scores dataset using `pd.read_csv()`
-- ✅ Explored the dataset using `head()` and `tail()`
-- ✅ Displayed all column names
-- ✅ Checked dataset shape and information using `shape` and `info()`
-- ✅ Generated summary statistics with `describe()`
-- ✅ Verified missing values using `isnull().sum()`
-- ✅ Checked for duplicate records
-- ✅ Examined data types of all columns
+## 🧭 Project Overview
 
-## 📌 Day 5 Highlights
-- ✅ Checked for missing values using `isnull().sum()`
-- ✅ Filled missing numeric values using `fillna()` with column mean
-- ✅ Detected and removed duplicate rows using `duplicated()` and `drop_duplicates()`
-- ✅ Generated dataset statistics using `describe()`
-- ✅ Reviewed dataset structure and data types using `info()`
-- ✅ Saved the cleaned dataset as `student_scores_cleaned.csv`
+This internship follows a structured, project-based approach to learning AI/ML fundamentals. Each day builds on the previous one — starting with core Python and data-handling libraries, moving into data cleaning and visualization, and finally applying that foundation to build a working Machine Learning model capable of generating real predictions.
 
-## 🛠️ Tools Used
-- Python
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
+**Dataset used:** Student Scores Dataset (sourced from Kaggle) — 2000 records covering academic scores, study habits, and student attributes.
+
+---
+
+## 🗺️ Internship Roadmap
+
+| Day | Description |
+|-----|-------------|
+| Day 1 | Install Python, VS Code, Jupyter Notebook and Git. Learn AI/ML/Data Science basics. Set up GitHub repository and run first Python program. |
+| Day 2 | Learn variables, data types, operators, loops, and functions in Python. |
+| Day 3 | Learn NumPy arrays, indexing, and mathematical operations. |
+| Day 4 | Import Pandas, load the student score dataset, and explore rows, columns, and dataset information. |
+| Day 5 | Handle missing values, remove duplicates, and understand dataset statistics. |
+| Day 6 | Create scatter plots, bar charts, and line charts using Matplotlib. |
+| Day 7 | Learn supervised learning, train-test split, and Linear Regression concepts. |
+| Day 8 | Build and train a Linear Regression model using Scikit-learn. |
+| Day 9 | Use the trained model to predict student scores based on study hours. |
+| Day 10 | Evaluate model performance using MAE, MSE, and R² Score. |
+| Day 11 | Build a simple Python program to predict scores based on user input. |
+| Day 12 | Improve notebook formatting, add comments, and organize project files. |
+| Day 13 | Upload notebook, dataset, screenshots, and README to GitHub. |
+| Day 14 | Final submission — GitHub repository, notebook, dataset, screenshots, README, and demo video. |
+
+---
+
+## 🛠️ Tools & Technologies
+
+`Python` `Git` `GitHub` `VS Code` `Jupyter Notebook` `NumPy` `Pandas` `Matplotlib` `Scikit-learn`
+
+---
 
 ## 👩‍💻 Author
-**Lucky Kumari**  
-B.Tech Computer Science Engineering  
+
+**Lucky Kumari**
+B.Tech, Computer Science Engineering
 AI/ML Intern – Codomax Digital
