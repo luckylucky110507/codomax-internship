@@ -1,16 +1,14 @@
 # Codomax Digital – AI/ML Internship
-
 This repository contains my daily task submissions for the AI/ML Internship at Codomax Digital. Each folder represents one day of the program, covering topics from Python basics to building and evaluating a Machine Learning model.
 
 ## 📅 Progress
-
 | Day | Topic | Status |
 |-----|-------------------------|----------------|
 | [Day 1](./Day1_EnviornmentSetup) | Environment Setup | ✅ Complete |
 | [Day 2](./Day2_PythonBasics) | Python Basics | ✅ Complete |
 | [Day 3](./Day3_Numpy) | NumPy | ✅ Complete |
 | [Day 4](./Day4_Pandas) | Pandas | ✅ Complete |
-| Day 5 | Data Cleaning | 🔲 Pending |
+| [Day 5](./Day5_DataCleaning) | Data Cleaning | ✅ Complete |
 | Day 6 | Data Visualization | 🔲 Pending |
 | Day 7 | Machine Learning Basics | 🔲 Pending |
 | Day 8 | Build the Model | 🔲 Pending |
@@ -24,7 +22,6 @@ This repository contains my daily task submissions for the AI/ML Internship at C
 ---
 
 ## 📌 Day 4 Highlights
-
 - ✅ Imported the Pandas library
 - ✅ Loaded the Student Scores dataset using `pd.read_csv()`
 - ✅ Explored the dataset using `head()` and `tail()`
@@ -35,8 +32,15 @@ This repository contains my daily task submissions for the AI/ML Internship at C
 - ✅ Checked for duplicate records
 - ✅ Examined data types of all columns
 
-## 🛠️ Tools Used
+## 📌 Day 5 Highlights
+- ✅ Checked for missing values using `isnull().sum()`
+- ✅ Filled missing numeric values using `fillna()` with column mean
+- ✅ Detected and removed duplicate rows using `duplicated()` and `drop_duplicates()`
+- ✅ Generated dataset statistics using `describe()`
+- ✅ Reviewed dataset structure and data types using `info()`
+- ✅ Saved the cleaned dataset as `student_scores_cleaned.csv`
 
+## 🛠️ Tools Used
 - Python
 - Git
 - GitHub
@@ -48,7 +52,6 @@ This repository contains my daily task submissions for the AI/ML Internship at C
 - Scikit-learn
 
 ## 👩‍💻 Author
-
 **Lucky Kumari**  
 B.Tech Computer Science Engineering  
 AI/ML Intern – Codomax Digital
