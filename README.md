@@ -13,7 +13,7 @@ A 14-day hands-on internship program covering the complete journey of an AI/ML p
 | [Day 3](./Day3_Numpy) | NumPy | ✅ Complete |
 | [Day 4](./Day4_Pandas) | Pandas | ✅ Complete |
 | [Day 5](./Day5_DataCleaning) | Data Cleaning | ✅ Complete |
-| [Day 6](./Day6_DataVisualization) | ✅ Complete|
+| [Day 6](./Day6_DataVisualization) |Data Visualization | ✅ Complete |
 | Day 7 | Machine Learning Basics | 🔲 Pending |
 | Day 8 | Build the Model | 🔲 Pending |
 | Day 9 | Prediction | 🔲 Pending |
