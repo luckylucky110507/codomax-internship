@@ -15,7 +15,7 @@ A 14-day hands-on internship program covering the complete journey of an AI/ML p
 | [Day 5](./Day5_DataCleaning) | Data Cleaning | ✅ Complete |
 | [Day 6](./Day6_DataVisualization) |Data Visualization | ✅ Complete |
 | [Day 7](./Day7_MLBasics) | ML Basics |✅ Complete |
-| [Day 8](./Day8_ModelBuild) | Model Build | ✅ Complete |
+| [Day 8](./Day8_BuildModel) | Build Model | ✅ Complete |
 | Day 9 | Prediction | 🔲 Pending |
 | Day 10 | Model Evaluation | 🔲 Pending |
 | Day 11 | Prediction App | 🔲 Pending |
