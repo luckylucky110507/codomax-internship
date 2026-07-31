@@ -16,8 +16,8 @@ A 14-day hands-on internship program covering the complete journey of an AI/ML p
 | [Day 6](./Day6_DataVisualization) |Data Visualization | ✅ Complete |
 | [Day 7](./Day7_MLBasics) | ML Basics |✅ Complete |
 | [Day 8](./Day8_BuildModel) | Build Model | ✅ Complete |
-| Day 9 | Prediction | 🔲 Pending |
-| Day 10 | Model Evaluation | 🔲 Pending |
+| [Day 9](./Day9_PredictModel) | Predict Model | ✅ Complete |
+| [Day 10](./Day10_ModelEvaluation) | Model Evaluation | ✅ Complete   |
 | Day 11 | Prediction App | 🔲 Pending |
 | Day 12 | Project Improvement | 🔲 Pending |
 | Day 13 | GitHub Publishing | 🔲 Pending |
