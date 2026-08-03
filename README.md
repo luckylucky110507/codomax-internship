@@ -44,8 +44,8 @@ Throughout these 14 days, I learned:
 | ✅ Day 10 | Model Evaluation | Completed |
 | ✅ Day 11 | Prediction App | Completed |
 | ✅ Day 12 | Project Improvement | Completed |
-| 🔄 Day 13 | GitHub Publishing | In Progress |
-| ⏳ Day 14 | Final Submission | Pending |
+| 🔄 Day 13 | GitHub Publishing | Completed  |
+| ⏳ Day 14 | Final Submission | Completed  |
 
 ---
 
