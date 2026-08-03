@@ -66,7 +66,6 @@ codomax-internship
 ├── Day10_ModelEvaluation
 ├── Day11_PredictionApp
 ├── README.md
-└── LICENSE
 ```
 
 ---
